@@ -1,0 +1,23 @@
+div {
+  height: 100vh;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  background: #2196f3;
+  padding: 16px 50px;
+  border-radius: 14px;
+  border: 2px solid #000;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+h1 {
+  color: #000;
+}
